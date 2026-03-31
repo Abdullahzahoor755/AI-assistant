@@ -1,0 +1,22 @@
+# SilverAgent Dependencies
+# Production-ready Python agent using local LLMs
+
+# Core LLM - Ollama Python client
+ollama>=0.1.0
+
+# Rich Terminal UI
+rich>=13.0.0
+
+# Supabase for cloud storage
+supabase>=2.0.0
+
+# Google API for Gmail
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.0.0
+
+# Discord webhook
+requests>=2.31.0
+
+# Environment variables (optional, for .env support)
+python-dotenv>=1.0.0
