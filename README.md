@@ -62,18 +62,4 @@ Log: SQLite mein entry karta hai aur Obsidian mein naya note create kar deta hai
 🛡️ License
 Distributed under the MIT License. See LICENSE for more information.
 
-👤 Author
-Abdullah Zahoor
-
-GitHub: @Abdullahzahoor755
-
-Field: Agentic AI & Robotic Engineering Student
-
-Bhai, kuch zaroori tips:
-requirements.txt: Is file mein saari libraries (jaise google-api-python-client, sqlite3, etc.) zaroor likh dena.
-
-Screenshots: Agar ho sake to terminal ya Obsidian ka aik screenshot README mein add kar dena, log bohot impress hote hain.
-
-Usage: Agar koi khas command hai agent chalane ki, to wo installation section mein change kar lena.
-
-Kaisa laga ye format? Agar kuch aur add karwana hai to batayen!
+made with 🤍 by Abdullah zahoor
